@@ -9,11 +9,12 @@ package boletin4_2;
  *
  * @author socamporomani
  */
-public class Boletin4_2 {
+public class boletin4_2 {
     
         public static void main(String[] args) {
-        
-            
+        Satelite comprobar= new Satelite();
+        comprobar.verPosicion();
+   
         }
-        
 }
+
